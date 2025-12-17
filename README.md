@@ -1,13 +1,12 @@
-<img src="https://github-readme-stats.vercel.app/api?username=joonhubb&show_icons=true&theme=transparent&hide_border=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=200&section=header&text=joonhubb&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=joonhubb&theme=dark" />
 
-
-###
-🧊Poking data until it says something  
+poking data until it says something  
 python · ml · biology  
 
----
+—
+currently not calling myself anything yet
 
-currently not calling myself ANYTHING yet!!
+
 
