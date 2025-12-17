@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
 <img src="https://readme-typing-svg.demolab.com
-?font=Playfair+Display
-&size=20
-&pause=1200
-&color=F9A8D4
+?font=JetBrains+Mono
+&size=18
+&pause=1000
+&color=C4B5FD
 &center=true
 &vCenter=true
 &width=700
-&lines=poking+data+until+it+says+something;python+%C2%B7+ml+%C2%B7+biology;currently+not+calling+myself+anything+yet" />
-font=Playfair+Display&size=20&pause=1000&color=F9A8D4&center=true&vCenter=true&width=600&lines=poking+data+until+it+says+something;python+%C2%B7+ml+%C2%B7+biology;currently+not+calling+myself+anything+yet" />
-
+&lines=poking+data+until+it+says+something;python+%C2%B7+ml+%C2%B7+biology;labels+pending" />
