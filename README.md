@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:111827&height=120&section=header)
+<img src="https://github-readme-stats.vercel.app/api?username=joonhubb&show_icons=true&theme=transparent&hide_border=true" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
