@@ -14,7 +14,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="44" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/2913/2913461.png" width="44" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2784/2784403.png" width="44" />
 </p>
 
 <!-- Soft Caption -->
