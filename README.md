@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=900&color=F9A8D4&width=650&lines=poking+data+until+it+says+something;python+-+ML+-+biology;learning+patterns+from+life+itself" alt="typing intro" />
 </p>
 
-<!-- Bottom Soft Gradient -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:F472B6,50:F9A8D4,100:FBCFE8" alt="soft gradient bottom" />
-</p>
-
 <!-- Skill Blocks -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46" />
