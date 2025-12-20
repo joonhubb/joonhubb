@@ -3,9 +3,8 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
 </p>
 
-<!-- Soft Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F9A8D4" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FBCFE8,50:F9A8D4,100:F472B6" alt="gradient divider" />
 </p>
 
 <p align="center">
